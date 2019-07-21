@@ -10,3 +10,7 @@
     ionic cordova platform add windows
 
 
+  3) Windows icon generator
+
+    npm install cordova-res-generator
+
