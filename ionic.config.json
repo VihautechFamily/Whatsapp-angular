@@ -1,0 +1,7 @@
+{
+  "name": "Whatsapp-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
