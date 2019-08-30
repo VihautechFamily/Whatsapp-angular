@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "name": "vihautech-plugin-ussd",
+    "cordova_name": "USSD interceptor",
+    "description": "With this plugin you can call a given ussd and read out the results.",
+    "license": "Copyright Vihautech",
+    "repo": "",
+    "issue": "",
+    "keywords": [
+        "cordova",
+        "device",
+        "vihautech"
+    ],
+    "platforms": [
+        "android"
+    ],
+    "engines": [],
+    "englishdoc": ""
+}

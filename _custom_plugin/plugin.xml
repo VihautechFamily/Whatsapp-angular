@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="io.ionic.starter.sample" version="1.0.0">
+    <name>Sample Plugin</name>
+    <js-module src="www/hello.js" name="hello">
+        <clobbers target="hello" />
+    </js-module>
+    <platform name="windows">
+        <js-module name="hello_proxy" src="src/windows/hello_proxy.js">
+            <clobbers target="hello_proxy"/>
+        </js-module>
+    </platform>
+</plugin>
